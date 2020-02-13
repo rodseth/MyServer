@@ -32,7 +32,7 @@ class Main {
             switch (str) {
 
                 case "hej":
-                    System.out.println("client says: " + str);
+//                    System.out.println("client says: " + str);
                     str2 = "velkommen \n"
                             + "angiv dit valg \n"
                             + "horoskop : for at se dagens horoskop \n"
